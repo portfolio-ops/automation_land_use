@@ -2,7 +2,7 @@ import arcpy
 from arcpy.sa import *
 
 # Set workspace
-arcpy.env.workspace = "path/to/workspace"
+arcpy.env.workspace = "C:\Users\rutow\Downloads\Bomori"
 
 # Load input data
 input_raster = "satellite_image.tif"
